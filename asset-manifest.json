@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c7f11bee.chunk.css",
+    "main.js": "/portfolio/static/js/main.0ece7e07.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0ece7e07.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
+    "static/js/2.13314106.chunk.js": "/portfolio/static/js/2.13314106.chunk.js",
+    "static/js/2.13314106.chunk.js.map": "/portfolio/static/js/2.13314106.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.57dda88639fbe7e94c1124fede9bd6e4.js": "/portfolio/precache-manifest.57dda88639fbe7e94c1124fede9bd6e4.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.c7f11bee.chunk.css.map": "/portfolio/static/css/main.c7f11bee.chunk.css.map",
+    "static/js/2.13314106.chunk.js.LICENSE": "/portfolio/static/js/2.13314106.chunk.js.LICENSE",
+    "static/media/Melius1.png": "/portfolio/static/media/Melius1.3181af4d.png",
+    "static/media/Melius1gf.gif": "/portfolio/static/media/Melius1gf.f51de274.gif",
+    "static/media/Melius_Logo2.png": "/portfolio/static/media/Melius_Logo2.31dd690b.png",
+    "static/media/goldteethusalogo.png": "/portfolio/static/media/goldteethusalogo.c0642ff2.png",
+    "static/media/gtusagf.gif": "/portfolio/static/media/gtusagf.ba5ea3f1.gif",
+    "static/media/heart.png": "/portfolio/static/media/heart.38753e6c.png",
+    "static/media/melius2gf.gif": "/portfolio/static/media/melius2gf.67ab1d6e.gif",
+    "static/media/profile.png": "/portfolio/static/media/profile.961bcbeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44087e9b.js",
+    "static/js/2.13314106.chunk.js",
+    "static/css/main.c7f11bee.chunk.css",
+    "static/js/main.0ece7e07.chunk.js"
+  ]
+}
